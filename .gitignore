@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# logs file
+env/
+main_wallets/
+pair/
+pfun_keypairs/
+buildspec.yml
+pfun_keyinfo.json
